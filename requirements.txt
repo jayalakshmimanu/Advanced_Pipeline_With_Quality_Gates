@@ -1,0 +1,17 @@
+FastAPI 
+
+Uvicorn 
+
+Pandas 
+
+NumPy
+
+Scikit-learn 
+
+httpx 
+
+joblib 
+
+pytest
+
+
